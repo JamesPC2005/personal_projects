@@ -3,7 +3,7 @@ This program is designed to take a ascii maze from maze.txt with walls composed 
 
 ## For example:
 If you give the input of:
-python"""
+"""python
     #####I#####
     # #   #   #
     # # # # # #
@@ -18,7 +18,7 @@ python"""
 """
 
 The output will be:
-"""
+"""python
     Maze solved!
     #####X#####
     # #  X#XXX#
