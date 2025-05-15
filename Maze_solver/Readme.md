@@ -3,7 +3,7 @@ This program is designed to take a ascii maze from maze.txt with walls composed 
 
 ## For example:
 If you give the input of:
-"""python
+```python
     #####I#####
     # #   #   #
     # # # # # #
@@ -15,10 +15,10 @@ If you give the input of:
     # ### # # #
     #   # #   #
     #####O#####
-"""
+```
 
 The output will be:
-"""python
+```python
     Maze solved!
     #####X#####
     # #  X#XXX#
@@ -31,7 +31,7 @@ The output will be:
     # ###X#X#X#
     #   #X#XXX#
     #####O#####
-"""
+```
 
 # Note:
 Maze.txt and the maze_solver must be located in the same directory, and you must be in that directory in order for Maze_Solver to be able to locate maze.txt
